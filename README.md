@@ -13,7 +13,7 @@
 
 <div style="display: flex; justify-content: center;">
 
-<a class="social" href="mailto:tarcisio.word@gmail.com" alt="Gmail" >
+<a class="social" href="mailto:tarcisio.word@gmail.com" title="Gmail" >
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
 </a>
 
