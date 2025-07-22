@@ -13,7 +13,7 @@
 
 <div style="display: flex; justify-content: center;">
 
-<a class="social" href="mailto:Tarcisio.word@gmail.com" alt="Gmail" >
+<a class="social" href="mailto:tarcisio.word@gmail.com" alt="Gmail" >
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
 </a>
 
@@ -62,5 +62,5 @@
 </br>
 
 <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/devtvas/count.svg" />
+    <img align="center" src="https://img.shields.io/github/watchers/devtvas/devtvas?style=social" />
 </p>
