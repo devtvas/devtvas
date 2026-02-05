@@ -31,10 +31,9 @@
 ✨ Interested in technology, programming projects, architecture and software testing. ✨
 </h3>
  
-- 🔭 I am currently a software developer, working with systems analysis and development;
-- 🌱 I’m currently learning about design patterns, Data structure, cloud, Docker containers;;
-- 💬 About me: I am creative, driven, and fascinated by technology and innovation. I am always looking for continuous improvement. I can get solutions to problems and realize business opportunities. My interpersonal skills and diverse knowledge are my key differentiators, I enjoy reading, long trips, and learning new things.
-
+- 🔭 I am a software developer with experience in systems analysis and application development. I have a strong interest in building scalable and well-structured solutions, always focusing on quality and maintainability;
+- 🌱 Currently, I am deepening my knowledge in design patterns, data structures, cloud technologies, and Docker-based environments;
+- ✨ About me: I am a creative and driven professional, passionate about technology and innovation. I enjoy solving complex problems, identifying business opportunities, and continuously improving both technically and professionally. Strong interpersonal skills and a broad technical background are among my key strengths. Outside of work, I enjoy reading, traveling, and learning new things.
 
 <h2 align="center"> 📈 My metrics on Github 📉 </h2>
 <p align="center">
